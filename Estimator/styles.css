@@ -1,0 +1,27 @@
+body {
+	background-color: #f4f6f9;
+}
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+.container {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+.p-2 a{
+	color: white;
+}
+
+#newprojectForm{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+   }
+
